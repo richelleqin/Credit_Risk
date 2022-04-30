@@ -8,4 +8,4 @@ The purpose of this project is to apply machine learning to analyze/determine cr
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/67567087/166122870-5922f46b-0e5e-44e3-a323-528f693c7c9f.png)
 - Balanced Accuracy: 0.6249984891886339
 - Precision: The precision is low for High-risk loans and is high for Low-risk loans
-- Recall: high(0.64) & low(0.66)
+- Recall: high(0.60) & low(0.65)
